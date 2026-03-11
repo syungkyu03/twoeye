@@ -1,0 +1,5 @@
+twoeye.spec
+/build/
+/dist/
+make_icon.py
+eye_icon_simple.ico
