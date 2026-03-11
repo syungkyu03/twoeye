@@ -348,3 +348,4 @@ if __name__ == "__main__":
     QTimer.singleShot(3000, trigger_random_blink)
 
     sys.exit(app.exec())
+    
