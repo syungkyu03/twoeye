@@ -2,7 +2,7 @@
 
 작업 표시줄 구석에서 마우스 커서를 쳐다보는 귀여운 눈알 위젯입니다.
 
-![moving_eyes](https://github.com/user-attachments/assets/3b5575ce-65f0-4d9f-9e70-4227cdd88417)
+<img src="[screenshot.png](https://github.com/user-attachments/assets/3b5575ce-65f0-4d9f-9e70-4227cdd88417)" width="150">
 
 ---
 
